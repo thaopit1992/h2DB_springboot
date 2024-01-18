@@ -12,6 +12,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
+// xử lý logic
 @Service
 public class EmployeeImpl implements IEmployeeService {
     @Autowired
