@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 /**
 * Tạo Restful API bằng Spring Boot
+ * Test GET
+ * http://localhost:8080/api/v1/todo/11
 */
 @RestController
 @RequestMapping("/api/v1")
